@@ -6,4 +6,4 @@
 - Serviços de retirada no local e tele-entrega com seus respectivos valores.
 
 ## Como acessar
-- Link do GitHub Pages: [Seu Link do GitHub Pages Aqui]
+- Link do GitHub Pages: [https://opedroneto.github.io/minimercado-pucrs/]
